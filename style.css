@@ -9,6 +9,15 @@ main{
     border-radius: 30px;
 }
 
+body{
+    background-image: "img/pattern.png";
+    background-repeat: repeat;
+}
+
+a{
+    color: rgb(1, 150, 200);
+}
+
 .logo{
 
 }
