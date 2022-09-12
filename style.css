@@ -1,4 +1,12 @@
 header{
     background-color: rgb(53, 188, 233);
-    background-image: "img/pattern.png";
+    
+}
+
+.grey{
+    color: lightgrey;
+}
+
+.yellow{
+    background-color: yellow;
 }
