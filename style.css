@@ -1,24 +1,10 @@
 header{
-    background-image: "img/pattern.png";
     background-color: rgb(53, 188, 233);
-    background-repeat: repeat;
     
 }
 
-main{
-    border-radius: 30px;
-}
-
-body{
-    background-image: "img/pattern.png";
-    background-repeat: repeat;
-}
-
-a{
-    color: rgb(1, 150, 200);
-}
-
 .logo{
+
 
 }
 
@@ -46,4 +32,12 @@ thead{
 
 .end{
     display: block;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.blue{
+    color: rgb(1, 150, 200);
 }
