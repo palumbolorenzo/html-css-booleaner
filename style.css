@@ -43,3 +43,7 @@ thead{
     color: rgb(53, 188, 233);
     display: inline;
 }
+
+.end{
+    display: block;
+}
